@@ -1,0 +1,30 @@
+    html {
+      height: 100%;
+    }
+    body {
+       width: 800px;
+       margin: 0 auto;
+       font-family: 'Oswald', sans-serif;
+       padding-top: 5px;
+       height: 100%;
+    }
+
+    p {
+        color: red;
+    }
+    section {
+        width: 73%;
+        display: inline-block;
+        float: left;
+        padding:0px;
+    }
+
+
+
+    #identified {
+        color: green;
+    }
+
+    .classy {
+        font-family: ariel;
+    }
